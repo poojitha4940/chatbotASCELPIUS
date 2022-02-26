@@ -24,7 +24,7 @@ from botbuilder.schema import (
 )
 
 from UserDialog.userdialoghelper import Userdialoghelper
-
+# new change
 # Implementation of Ascelpius chat bot with QnA maker 
 class Healthbot(ActivityHandler):
     def __init__(
