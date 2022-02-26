@@ -1,0 +1,5 @@
+.pylintrc
+__pycache__
+SmartBot/_pycache_
+UserDialog/_pycache_
+
